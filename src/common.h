@@ -14,6 +14,7 @@
 #include <string>
 #include <iostream>
 #include <sstream>
+#include <iterator>
 
 #ifdef __CYGWIN__
 #define _GLIBCXX_EXPORT_TEMPLATE
